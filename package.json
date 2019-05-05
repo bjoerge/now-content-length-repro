@@ -1,0 +1,7 @@
+{
+  "name": "content-length-repro",
+  "private": true,
+  "dependencies": {
+    "micro": "^9.3.4"
+  }
+}
